@@ -1,1 +1,2 @@
 pypng
+pip install -r requirements.txt
